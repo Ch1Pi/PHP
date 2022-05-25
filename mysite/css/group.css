@@ -1,0 +1,57 @@
+.otherscreen {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.otherscreen .firsttrener {
+  width: 500px;
+  height: 600px;
+}
+.otherscreen .firsttrener p {
+  color: #fff;
+  margin-top: 20px;
+}
+.otherscreen .firsttrener img {
+  width: 325px;
+  height: 400px;
+}
+.otherscreen .firsttrener button {
+  font-size: 20px;
+  background: #6C1516;
+  margin-top: 0px;
+}
+
+.otherscreen .secondtrener {
+  width: 500px;
+  height: 600px;
+}
+.otherscreen .secondtrener p {
+  color: #fff;
+  margin-top: 20px;
+}
+.otherscreen .secondtrener img {
+  width: 325px;
+  height: 400px;
+}
+.otherscreen .secondtrener button {
+  font-size: 20px;
+  background: #6C1516;
+  margin-top: 0px;
+}
+
+.otherscreen .thirdtrener {
+  width: 500px;
+  height: 600px;
+}
+.otherscreen .thirdtrener p {
+  color: #fff;
+  margin-top: 20px;
+}
+.otherscreen .thirdtrener img {
+  width: 325px;
+  height: 400px;
+}
+.otherscreen .thirdtrener button {
+  font-size: 20px;
+  background: #6C1516;
+  margin-top: 0px;
+}
